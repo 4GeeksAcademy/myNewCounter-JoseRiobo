@@ -24,4 +24,3 @@ setInterval(() => {
         <MyCounter digitFirst={firstTimer} digitSecond={secondTimer} digitThird={thirdTimer} digitFourth={fourthTimer} digitFifth={fifthTimer} digitSixth={sixthTimer}/>
     );
 }, 1000);
-git 
